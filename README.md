@@ -3,4 +3,4 @@
 #Technology used:c program 
 #example:
 input: enter x,y and z:2,4,5
-output:5 is the greatest number
+output: greatest number is 5
